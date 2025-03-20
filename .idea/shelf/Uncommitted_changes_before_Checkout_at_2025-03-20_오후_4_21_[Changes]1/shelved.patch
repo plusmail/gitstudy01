@@ -1,0 +1,88 @@
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+new file mode 100644
+--- /dev/null	(date 1742454844966)
++++ b/.idea/misc.xml	(date 1742454844966)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectRootManager" version="2" default="true">
++    <output url="file://$PROJECT_DIR$/out" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/vcs.xml b/.idea/vcs.xml
+new file mode 100644
+--- /dev/null	(date 1742454844967)
++++ b/.idea/vcs.xml	(date 1742454844967)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="" vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/compiler.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/compiler.xml b/.idea/compiler.xml
+new file mode 100644
+--- /dev/null	(date 1742454844966)
++++ b/.idea/compiler.xml	(date 1742454844966)
+@@ -0,0 +1,8 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="TypeScriptCompiler">
++    <option name="recompileOnChanges" value="true" />
++    <option name="typeScriptCompilerParams" value="--sourceMap true" />
++    <option name="useConfig" value="true" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>.idea/\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.gitignore b/.gitignore
+--- a/.gitignore	(revision a62ee1e8d7413de43d730ca0fc4e2f3311724dd1)
++++ b/.gitignore	(date 1742454942467)
+@@ -1,1 +1,0 @@
+-.idea/
+Index: branch.html
+===================================================================
+diff --git a/branch.html b/branch.html
+new file mode 100644
+--- /dev/null	(date 1742454844972)
++++ b/branch.html	(date 1742454844972)
+@@ -0,0 +1,1 @@
++<html>
+Index: a1.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+> 브랜치 실습합니다.1\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/a1.txt b/a1.txt
+--- a/a1.txt	(revision a62ee1e8d7413de43d730ca0fc4e2f3311724dd1)
++++ b/a1.txt	(date 1742455245863)
+@@ -1,1 +1,2 @@
+  브랜치 실습합니다.1
++브랜치 실습힙니다. 2
+diff --git a/a2.txt b/a2.txt
+new file mode 100644
