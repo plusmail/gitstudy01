@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d63a7abf-a441-4055-be51-ec74290d8997" name="Changes" comment="dddd" />
+    <list default="true" id="d63a7abf-a441-4055-be51-ec74290d8997" name="Changes" comment="dddd">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +27,18 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "plusmail"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/plusmail/gitstudy01.git",
+    "accountId": "ee5ccb58-6cab-46ef-87b8-73755cf48445"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -71,7 +85,7 @@
       <updated>1742434463797</updated>
       <workItem from="1742434464907" duration="1836000" />
       <workItem from="1742436339881" duration="109000" />
-      <workItem from="1742436459331" duration="4523000" />
+      <workItem from="1742436459331" duration="6787000" />
     </task>
     <task id="LOCAL-00001" summary="dddd">
       <option name="closed" value="true" />
@@ -121,7 +135,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="origin/main" />
                       </list>
                     </value>
                   </entry>
